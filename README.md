@@ -1,4 +1,4 @@
-[<img width="256" height="256" alt="icon_nobg" src="https://github.com/user-attachments/assets/c2e5067f-f75a-4563-a13e-9b262946898c" />](https://piboh.github.io/FreeGLD)
+[<img width="256" height="256" alt="icon_nobg" src="https://github.com/PiBOH/FreeGDL/blob/main/icon_nobg.png" />](https://piboh.github.io/FreeGLD)
 
 
 # FreeGDL
